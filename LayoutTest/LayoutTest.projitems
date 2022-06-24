@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>2827b2c4-6ef3-4281-9576-84adc0785b1b</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>LayoutTest</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)data\Avicii, Dua Lipa, Coldplay, Martin Garrix Kygo, The Chainsmokers Style - Summer Vibes-live.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Back To The 80%27s%27 - Retro Wave A Synthwave Chillwave Retrowave mix 194-logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Back To The 80s - Retro Wave A Synthwave Chillwave Retrowave mix 215-logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Carl Cox Boris Brejcha Solomun Tale Of Us Maceo Plex Other Artists - MORPHINE Selection-live.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Chill Guitar Night Seductive Smooth Guitar Chilhop Jazzhop Lounge Study Background Music-live-logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Cyberpunk Darkwave Dystopia Now Synthwave Mix-logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Depeche Mode Duke Dumont Solomun Hans Zimmer Ten Walls Hozho - MORPHINE Selection.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Ed Sheeran, Martin Garrix, Kygo, Dua Lipa, Avicii, The Chainsmokers Style - Feeling Me 298-logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Ed Sheeran, Martin Garrix, Kygo, Dua Lipa, Coldplay, Avicii, The Chainsmokers Style - Feeling Me-logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Focus Music - Ambient Music for Studying, Deep Focus Music for Meditation , Background Music Relax.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Haa Taa Deep Radio 24 Live Radio Summer Mix, Chillout, Study, Running, Gym, Happy Music-logo-live.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\It%27s Summer 1986, you%27re Driving at night - Playlist - Back to The 80s-logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Kygo, Avicii, Robin Schulz, MØ, Alok, Axwell Ingrosso, Jonas Blue - Summer Vibes Deep House Mix.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Let your mind drift Lofi hip hop mix Cowboy Bebop-live.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Liquid Drum and Bass Mix #122.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Maru%27s MASS THOR PUSH - Starcraft 2 Maru vs. Ragnarok.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\NEW PARTY MIX 2022TOMORROWLAND 2022 NEW EDM 2022-logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\NEW WAVE SONGS 80%27s 90%27s Spandau Ballet, China Crisis, Modern English, Tears for Fears-live.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\PREY Trailer %282022%29 Predator 5-live.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Sensual Chill Guitar Seductive Smooth Guitar Chilhop Jazzhop Lounge Relaxing Cafe Playlist.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Solomun - Rüfüs Du Sol - Hozho - Tale Of Us - Adriatique - And more.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Synthwave - Retrowave - Retro Electro Livestream-logo-live.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\The Best NEW Horror Movies %28Trailers%29-logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\Vintage Reggae Soundsystem - Full Discography - %28Summer Reggae Sunset%29-logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)data\feel good korean %28underground%29 rb playlist vol.3 16 songs.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>6279c845-92f8-4333-ab99-3d213163593c</ProjectGuid>
+    <MinimumVisualStudioVersion>14.0</MinimumVisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\CodeSharing\Microsoft.CodeSharing.Common.Default.props" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\CodeSharing\Microsoft.CodeSharing.Common.props" />
+  <PropertyGroup />
+  <Import Project="LayoutTest.Uno.Shared.projitems" Label="Shared" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\CodeSharing\Microsoft.CodeSharing.CSharp.targets" />
+  <ItemGroup>
+    <_Globbed_Compile Remove="Model\DataItem.cs" />
+    <_Globbed_Compile Remove="View\GalleryView.xaml.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <_Globbed_Content Remove="Assets\Images\Avicii, Dua Lipa, Coldplay, Martin Garrix Kygo, The Chainsmokers Style - Summer Vibes-live.png" />
+    <_Globbed_Content Remove="Assets\Images\Back To The 80's' - Retro Wave A Synthwave Chillwave Retrowave mix 194-logo.png" />
+    <_Globbed_Content Remove="Assets\Images\Back To The 80s - Retro Wave A Synthwave Chillwave Retrowave mix 215-logo.png" />
+    <_Globbed_Content Remove="Assets\Images\Carl Cox Boris Brejcha Solomun Tale Of Us Maceo Plex Other Artists - MORPHINE Selection-live.png" />
+    <_Globbed_Content Remove="Assets\Images\Chill Guitar Night Seductive Smooth Guitar Chilhop Jazzhop Lounge Study Background Music-live-logo.png" />
+    <_Globbed_Content Remove="Assets\Images\Cyberpunk Darkwave Dystopia Now Synthwave Mix-logo.png" />
+    <_Globbed_Content Remove="Assets\Images\Depeche Mode Duke Dumont Solomun Hans Zimmer Ten Walls Hozho - MORPHINE Selection.png" />
+    <_Globbed_Content Remove="Assets\Images\Ed Sheeran, Martin Garrix, Kygo, Dua Lipa, Avicii, The Chainsmokers Style - Feeling Me 298-logo.png" />
+    <_Globbed_Content Remove="Assets\Images\Ed Sheeran, Martin Garrix, Kygo, Dua Lipa, Coldplay, Avicii, The Chainsmokers Style - Feeling Me-logo.png" />
+    <_Globbed_Content Remove="Assets\Images\feel good korean (underground) rb playlist vol.3 16 songs.png" />
+    <_Globbed_Content Remove="Assets\Images\Focus Music - Ambient Music for Studying, Deep Focus Music for Meditation , Background Music Relax.png" />
+    <_Globbed_Content Remove="Assets\Images\Haa Taa Deep Radio 24 Live Radio Summer Mix, Chillout, Study, Running, Gym, Happy Music-logo-live.png" />
+    <_Globbed_Content Remove="Assets\Images\It's Summer 1986, you're Driving at night - Playlist - Back to The 80s-logo.png" />
+    <_Globbed_Content Remove="Assets\Images\Kygo, Avicii, Robin Schulz, MØ, Alok, Axwell Ingrosso, Jonas Blue - Summer Vibes Deep House Mix.png" />
+    <_Globbed_Content Remove="Assets\Images\Let your mind drift Lofi hip hop mix Cowboy Bebop-live.png" />
+    <_Globbed_Content Remove="Assets\Images\Liquid Drum and Bass Mix #122.png" />
+    <_Globbed_Content Remove="Assets\Images\Maru's MASS THOR PUSH - Starcraft 2 Maru vs. Ragnarok.png" />
+    <_Globbed_Content Remove="Assets\Images\NEW PARTY MIX 2022TOMORROWLAND 2022 NEW EDM 2022-logo.png" />
+    <_Globbed_Content Remove="Assets\Images\NEW WAVE SONGS 80's 90's Spandau Ballet, China Crisis, Modern English, Tears for Fears-live.png" />
+    <_Globbed_Content Remove="Assets\Images\PREY Trailer (2022) Predator 5-live.png" />
+    <_Globbed_Content Remove="Assets\Images\Sensual Chill Guitar Seductive Smooth Guitar Chilhop Jazzhop Lounge Relaxing Cafe Playlist.png" />
+    <_Globbed_Content Remove="Assets\Images\Solomun - Rüfüs Du Sol - Hozho - Tale Of Us - Adriatique - And more.png" />
+    <_Globbed_Content Remove="Assets\Images\Synthwave - Retrowave - Retro Electro Livestream-logo-live.png" />
+    <_Globbed_Content Remove="Assets\Images\The Best NEW Horror Movies (Trailers)-logo.png" />
+    <_Globbed_Content Remove="Assets\Images\Vintage Reggae Soundsystem - Full Discography - (Summer Reggae Sunset)-logo.png" />
+    <_Globbed_Content Remove="Assets\test.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <_Globbled_Page Remove="View\GalleryView.xaml" />
+  </ItemGroup>
+</Project>
